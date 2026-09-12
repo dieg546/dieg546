@@ -5,7 +5,7 @@
 
 # Acerca de mi 🚀
 
-¡Hola! Mi nombre es Diego Sánchez tengo, 25 años y me dedico a la programación web especificamente como desarrollador Full-Stack.
+¡Hola! Mi nombre es Diego Sánchez tengo, 26 años y me dedico a la programación web especificamente como desarrollador Full-Stack.
 
 Me gusta enfocarme en pronfundidad a cada proyecto que estoy desempeñando, todo desde una perspectiva analítica y metódica.
 
